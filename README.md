@@ -9,3 +9,5 @@ Laravel API Project - JWT Auth implementation
 ## Note
 
 - Kalau ada error atau bug pada repo ini silahkan open issue, atau bisa chat via [whatsapp](https://api.whatsapp.com/send?phone=6282313196370&text=hai%20gans)
+
+- Silahkan kalau ada yg nemu error open issue yaaa, biar klo ada temen kita yg ngalamin error yg sama bisa tau juga cara fix nya
